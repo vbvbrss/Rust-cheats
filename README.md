@@ -1,8 +1,6 @@
 # Rust ESP & Fly Assist Pro
 
-Elevate your survival and PvP advantage in **Rust** with this precision-based ESP and flight utility. Designed as a modular performance tool, it delivers wall-penetrating enemy tracking, legit-style vertical movement, and optional aim smoothing — all through a lightweight external overlay. This assistant is perfect for players seeking tactical awareness and recoil control while maintaining stealth and stability.
-
-[![Download Rust Tool](https://img.shields.io/badge/Download-Rust%20Tool-darkorange)](https://rust-cheats-download.github.io/.github)
+Elevate your survival and PvP advantage in **Rust** with this precision-based ESP and flight utility. Designed as a modular performance tool, it delivers wall-penetrating enemy tracking, legit-style vertical movement, and optional aim smoothing — all through a lightweight external overlay. This assistant is perfect for players seeking tactical awareness and recoil control while maintaining stealth and stability
 
 ---
 
